@@ -1,1 +1,3 @@
 # Digimon
+
+[Home](Home)
