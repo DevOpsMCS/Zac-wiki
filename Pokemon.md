@@ -1,1 +1,3 @@
 # Pokemon
+
+[Home](Home)
